@@ -2,7 +2,7 @@
 My creation of a website that reviews books.
 <html>
   <head>
-    <title>Open Books!</title>
+    Open Books!
   </head>
   <body>
     <h1>Books</h1>
